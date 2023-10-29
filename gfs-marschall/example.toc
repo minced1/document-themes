@@ -1,3 +1,0 @@
-\babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{\numberline {1}Noch ein Artikel}{5}{}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
