@@ -1,0 +1,65 @@
+\documentclass[12pt]{scrreprt}
+
+% German locale
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+
+% Add images
+\usepackage{graphicx}
+
+%\usepackage{lmodern}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+
+% Define layout
+\usepackage{setspace}
+\setstretch{1.41}
+\usepackage[
+	a4paper,
+	left	= 2.5cm,
+	right	= 3cm,
+	top	= 2cm,
+	bottom	= 2cm,
+	%includeheadfoot,
+	%showframe
+	]{geometry}
+
+\usepackage{scrlayer-scrpage}
+\usepackage[bottom]{footmisc}
+\clearpairofpagestyles
+
+\setkomafont{pageheadfoot}{\rmfamily}
+%\setkomafont{pagehead}{\bfseries}
+\setkomafont{pagination}{}
+
+\KOMAoptions{
+   headsepline = true,
+   footsepline = false,
+   plainfootsepline = true,
+}
+
+\automark[chapter]{chapter}
+
+\ihead{\headmark}
+\ohead{\pagemark}
+
+\title{Das linguistische Relativitätsprinzip}
+\author{Jasper Gude}
+\date{\today{}, Hockenheim}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\listoffigures
+\listoftables
+
+\chapter{Noch ein Artikel}
+This is page 1.\newpage
+This is page 2.
+\footnote{text for footnote}
+
+
+\end{document}
+\footnote{text for footnote}
