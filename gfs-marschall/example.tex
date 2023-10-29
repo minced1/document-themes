@@ -11,11 +11,27 @@
 % Use APA citation
 %\usepackage[natbibapa]{apacite}
 \usepackage{csquotes}
-\usepackage[backend=biber, style=apa, autocite=footnote]{biblatex}
+
+\usepackage[
+	backend		= biber,
+	style			= verbose,
+	autocite	= footnote
+	]{biblatex}
 	\bibliography{example}
+
+
 
 % Add images
 \usepackage{graphicx}
+
+% Configure captions
+\usepackage[
+	format			= hang,
+	labelfont		= bf,
+	font				= bf,
+	figurename	= Abb.,
+	tablename		= Tab.
+	]{caption}
 
 % Blind text
 \usepackage{lipsum}
@@ -49,9 +65,9 @@
 	\setkomafont{pagination}{}
 
 	\KOMAoptions{
-	   headsepline = true,
-	   footsepline = false,
-	   %plainfootsepline = true,
+	   headsepline	= true,
+	   footsepline	= false,
+	   %plainfootsepline	= true,
 	}
 
 	\automark[chapter]{chapter}
@@ -61,7 +77,7 @@
 
 \title{Das linguistische Relativitätsprinzip}
 \author{Jasper Gude}
-\date{\today{}, Hockenheim}
+\date{\today{}, Oftersheim}
 
 \begin{document}
 
@@ -77,7 +93,9 @@ kenntlich gemacht und andere als die angegebenen Hilfsmittel nicht benutzt habe.
 Oftersheim, \today, Unterschrift
 
 \tableofcontents
+%\addtocontents{lof}{\booltrue {citerequest}}
 \listoffigures
+%\addtocontents{lot}{\booltrue {citerequest}}
 \listoftables
 
 \chapter{Kapitelüberschrift}
@@ -85,23 +103,42 @@ Oftersheim, \today, Unterschrift
 
 \section{Abschnittüberschrift}
 	\label{sec:abschnitt}
-\lipsum[2-4]
+
+\lipsum[2-3]
 \autocite[5]{a}
+
+\begin{table}[!htb]
+	\centering
+	\caption[Nutzlose Tabelle {\autocite[4--5]{a}}]{Nutzlose Tabelle\footnotemark}
+	\begin{tabular}{ |c|c|c| }
+		\hline
+		cell1 & cell2 & cell3 \\
+		\hline
+		cell4 & cell5 & cell6 \\
+		cell7 & cell8 & cell9 \\
+		\hline
+	\end{tabular}
+	\label{tab:useless}
+\end{table}
+\footcitetext[4--5]{a}
 
 \subsection{Unterabschnittüberschrift}
 	\label{sec:unterabschnitt}
+
 \lipsum[1-2]
 \autocite[1--5]{b}
 
 \begin{figure}[!htb]
 	\centering
-	  \includegraphics[width=0.5\textwidth]{image}
-	\caption{Stare-off with grandma}
+	\includegraphics[width=0.5\textwidth]{image}
+	\caption[Stare-off with grandma {\autocite[3]{c}}]{Stare-off with grandma\footnotemark}
 	\label{fig:granny}
 \end{figure}
+\footcitetext[3]{a}
 
 \subsubsection{Unterunterabschnittüberschrift}
 	\label{sec:unterunterabschnitt}
+\autocite[30--58]{c}
 \lipsum[1-1]
 \autocite[30--58]{c}
 
