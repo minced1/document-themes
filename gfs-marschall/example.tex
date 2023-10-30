@@ -8,7 +8,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
-% Use APA citation
+% Use Verbose citation
 %\usepackage[natbibapa]{apacite}
 \usepackage{csquotes}
 
@@ -18,8 +18,6 @@
 	autocite	= footnote
 	]{biblatex}
 	\bibliography{example}
-
-
 
 % Add images
 \usepackage{graphicx}
@@ -75,13 +73,17 @@
 	\ihead{\headmark}
 	\ohead{\pagemark}
 
-\title{Das linguistische Relativitätsprinzip}
-\author{Jasper Gude}
-\date{\today{}, Oftersheim}
+\usepackage{titlepage}
+
 
 \begin{document}
-
-\maketitle
+	\ititle{Das linguistische Relativitätsprinzip}
+	\isubtitle{Sapir-Whorf-Hypothese} % Optional
+	\iauthor{Jasper Gude}
+	\idate{\today}
+	\irefnr{}
+	\iaddress{Hockenheim} % Only for ireports!
+\makeititle
 
 \begin{center}
 	\bfseries{Eigenständigkeitserklärung}
