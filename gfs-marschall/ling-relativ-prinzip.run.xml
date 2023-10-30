@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>example.bcf</file>
+      <file>ling-relativ-prinzip.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>example.bbl</file>
+      <file>ling-relativ-prinzip.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -67,22 +67,22 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>example</infile>
+      <infile>ling-relativ-prinzip</infile>
     </cmdline>
     <input>
-      <file>example.bcf</file>
+      <file>ling-relativ-prinzip.bcf</file>
     </input>
     <output>
-      <file>example.bbl</file>
+      <file>ling-relativ-prinzip.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>example.bbl</file>
+      <file>ling-relativ-prinzip.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>example.bcf</file>
+      <file>ling-relativ-prinzip.bcf</file>
     </requires>
     <requires type="editable">
-      <file>example.bib</file>
+      <file>ling-relativ-prinzip.bib</file>
     </requires>
   </external>
 </requests>

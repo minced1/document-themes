@@ -45,37 +45,6 @@
       \field{pages}{3\bibrangedash 4}
       \range{pages}{2}
     \endentry
-    \entry{b}{article}{}
-      \name{author}{2}{}{%
-        {{hash=9b6845d17433653d1af8431132150a7d}{%
-           family={Author},
-           familyi={A\bibinitperiod},
-           given={Anne},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4bc1a658cc2b7bd85bbc8877f8a832b6}{%
-           family={Buthor},
-           familyi={B\bibinitperiod},
-           given={Bert},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{920e4c51e180d49be4b36b7822a0e602}
-      \strng{fullhash}{920e4c51e180d49be4b36b7822a0e602}
-      \strng{bibnamehash}{920e4c51e180d49be4b36b7822a0e602}
-      \strng{authorbibnamehash}{920e4c51e180d49be4b36b7822a0e602}
-      \strng{authornamehash}{920e4c51e180d49be4b36b7822a0e602}
-      \strng{authorfullhash}{920e4c51e180d49be4b36b7822a0e602}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Circularity Today}
-      \field{number}{6}
-      \field{title}{Further Thoughts}
-      \field{volume}{5}
-      \field{year}{3005}
-      \field{pages}{7\bibrangedash 8}
-      \range{pages}{2}
-    \endentry
     \entry{c}{article}{}
       \name{author}{3}{}{%
         {{hash=9b6845d17433653d1af8431132150a7d}{%
