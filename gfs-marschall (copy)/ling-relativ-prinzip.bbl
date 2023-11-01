@@ -41,30 +41,6 @@
       \field{title}{Did you know that suburban white males have over 100 words for \enquote{lawn}}
       \field{year}{2009}
     \endentry
-    \entry{article:Science_and_linguistics}{article}{}
-      \name{author}{1}{}{%
-        {{hash=59ef4d478627c55e3541a8a7c5447a8b}{%
-           family={Whorf},
-           familyi={W\bibinitperiod},
-           given={Benjamin},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \strng{fullhash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \strng{bibnamehash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \strng{authorbibnamehash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \strng{authornamehash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \strng{authorfullhash}{59ef4d478627c55e3541a8a7c5447a8b}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{John B. Carroll (Hrsg.): Language, Thought, and Reality. Selected Writings of Benjamin Lee Whorf.}
-      \field{title}{Science and linguistics}
-      \field{year}{1956}
-      \field{pages}{213}
-      \range{pages}{1}
-    \endentry
     \entry{wiki:Benjamin_Lee_Whorf}{misc}{}
       \name{author}{1}{}{%
         {{hash=9c677286866aad38f8e9b660f5411814}{%
@@ -127,6 +103,7 @@
       \field{howpublished}{\url{https://ling.yale.edu/sites/default/files/images/whorf.jpg}}
     \endentry
   \enddatalist
+  \missing{a}
 \endrefsection
 \endinput
 
