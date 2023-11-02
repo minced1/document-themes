@@ -1,0 +1,33 @@
+Vorwort	ling-relativ-prinzip.tex	/^\\chapter{Vorwort}$/;"	c
+chap:vorwort	ling-relativ-prinzip.tex	/^	\\label{chap:vorwort}$/;"	l
+Einleitung	ling-relativ-prinzip.tex	/^\\chapter{Einleitung}$/;"	c
+chap:einleitung	ling-relativ-prinzip.tex	/^\\label{chap:einleitung}$/;"	l
+Benjamin Lee Whorf	ling-relativ-prinzip.tex	/^\\chapter{Benjamin Lee Whorf}$/;"	c
+chap:bjwhorf	ling-relativ-prinzip.tex	/^\\label{chap:bjwhorf}$/;"	l
+fig:whorf	ling-relativ-prinzip.tex	/^	\\label{fig:whorf}$/;"	l
+Leben und Werk	ling-relativ-prinzip.tex	/^	\\section{Leben und Werk}$/;"	s	chapter:Benjamin Lee Whorf
+sec:lebenuwerk	ling-relativ-prinzip.tex	/^	\\label{sec:lebenuwerk}$/;"	l
+Einfl   sse	ling-relativ-prinzip.tex	/^		\\subsection{Einflüsse}$/;"	u	section:Benjamin Lee Whorf""Leben und Werk
+sec:einfluesse	ling-relativ-prinzip.tex	/^		\\label{sec:einfluesse}$/;"	l
+Sapir-Whorf-Hypothese	ling-relativ-prinzip.tex	/^\\chapter{Sapir-Whorf-Hypothese}$/;"	c
+chap:s_p_hypothese	ling-relativ-prinzip.tex	/^\\label{chap:s_p_hypothese}$/;"	l
+Einleitung	ling-relativ-prinzip.tex	/^\\section{Einleitung}$/;"	s	chapter:Sapir-Whorf-Hypothese
+sec:s_p_einleitung	ling-relativ-prinzip.tex	/^\\label{sec:s_p_einleitung}$/;"	l
+Interpretationen post mortem	ling-relativ-prinzip.tex	/^	\\section{Interpretationen post mortem}$/;"	s	chapter:Sapir-Whorf-Hypothese
+sec:s_p_interpret	ling-relativ-prinzip.tex	/^	\\label{sec:s_p_interpret}$/;"	l
+Das Prinzip der linguistischen Relativit   t	ling-relativ-prinzip.tex	/^		\\subsection{Das Prinzip der linguistischen Relativität}$/;"	u	section:Sapir-Whorf-Hypothese""Interpretationen post mortem
+sec:s_p_lingrelativ	ling-relativ-prinzip.tex	/^		\\label{sec:s_p_lingrelativ}$/;"	l
+fig:nutzlos	ling-relativ-prinzip.tex	/^			\\label{fig:nutzlos}$/;"	l
+Das Prinzip des linguistischen Determinismus	ling-relativ-prinzip.tex	/^		\\subsection{Das Prinzip des linguistischen Determinismus}$/;"	u	section:Sapir-Whorf-Hypothese""Interpretationen post mortem
+sec:s_p_lingdetermin	ling-relativ-prinzip.tex	/^		\\label{sec:s_p_lingdetermin}$/;"	l
+Aktualit   t der Hypothese	ling-relativ-prinzip.tex	/^	\\section{Aktualität der Hypothese}$/;"	s	chapter:Sapir-Whorf-Hypothese
+sec:s_p_aktualit   t	ling-relativ-prinzip.tex	/^	\\label{sec:s_p_aktualität}$/;"	l
+Neue empirische Forschung	ling-relativ-prinzip.tex	/^		\\subsection{Neue empirische Forschung}$/;"	u	section:Sapir-Whorf-Hypothese""Aktualit   t der Hypothese
+sec:s_p_emp_forschung	ling-relativ-prinzip.tex	/^		\\label{sec:s_p_emp_forschung}$/;"	l
+Das grammatische Geschlecht	ling-relativ-prinzip.tex	/^		\\subsection{Das grammatische Geschlecht}$/;"	u	section:Sapir-Whorf-Hypothese""Aktualit   t der Hypothese
+sec:s_p_gram_geschlecht	ling-relativ-prinzip.tex	/^		\\label{sec:s_p_gram_geschlecht}$/;"	l
+Lehnw   rter	ling-relativ-prinzip.tex	/^\\chapter{Lehnwörter}$/;"	c
+chap:lehnw   rter	ling-relativ-prinzip.tex	/^\\label{chap:lehnwörter}$/;"	l
+tab:nutzlos	ling-relativ-prinzip.tex	/^	\\label{tab:nutzlos}$/;"	l
+Unterunterabschnitt   berschrift	ling-relativ-prinzip.tex	/^\\subsubsection{Unterunterabschnittüberschrift}$/;"	b	chapter:Lehnw   rter
+sec:unterunterabschnitt	ling-relativ-prinzip.tex	/^	\\label{sec:unterunterabschnitt}$/;"	l
