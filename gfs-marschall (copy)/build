@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Only works on a NixOS system
-latexmk -lualatex
-latexmk -c

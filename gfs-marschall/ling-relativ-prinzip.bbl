@@ -19,6 +19,57 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{article:LingDeterm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a22448a4d6337d12c60f024ae6be101}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{fullhash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{bibnamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authorbibnamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authornamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authorfullhash}{9a22448a4d6337d12c60f024ae6be101}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Abnormal and Social Psychology}
+      \field{number}{1}
+      \field{title}{Linguistic determinism and the part of speech}
+      \field{volume}{Band 55}
+      \field{year}{1957}
+    \endentry
+    \entry{article:Reference}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a22448a4d6337d12c60f024ae6be101}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Roger\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{fullhash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{bibnamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authorbibnamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authornamehash}{9a22448a4d6337d12c60f024ae6be101}
+      \strng{authorfullhash}{9a22448a4d6337d12c60f024ae6be101}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{2}
+      \field{subtitle}{In memorial tribue to Eric Lenneberg}
+      \field{title}{Reference}
+      \field{volume}{Band 4}
+      \field{year}{1976}
+    \endentry
     \entry{cartoon:Inuit}{misc}{}
       \name{author}{1}{}{%
         {{hash=cccbc75ebb102147c24472f11547a897}{%
@@ -40,6 +91,79 @@
       \field{howpublished}{\url{https://www.speedbump.com/}}
       \field{title}{Did you know that suburban white males have over 100 words for \enquote{lawn}}
       \field{year}{2009}
+    \endentry
+    \entry{article:Linguistic_Relativity}{article}{}
+      \name{author}{1}{}{%
+        {{hash=50c20b0ad8b128af00d21bfd2398d11d}{%
+           family={Deutscher},
+           familyi={D\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \strng{fullhash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \strng{bibnamehash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \strng{authorbibnamehash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \strng{authornamehash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \strng{authorfullhash}{50c20b0ad8b128af00d21bfd2398d11d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The New York Times Magazine}
+      \field{title}{Does Your Language Shape How You Think?}
+      \field{year}{2010}
+    \endentry
+    \entry{article:LingSignific}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3a20ce2c0ab7072f88f26c2d86c99aa4}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9a76cbc16f264cf1ac0efe3b8b9db79c}{%
+           family={McDaniel},
+           familyi={M\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{198b34a79898788459db570836a6daba}
+      \strng{fullhash}{198b34a79898788459db570836a6daba}
+      \strng{bibnamehash}{198b34a79898788459db570836a6daba}
+      \strng{authorbibnamehash}{198b34a79898788459db570836a6daba}
+      \strng{authornamehash}{198b34a79898788459db570836a6daba}
+      \strng{authorfullhash}{198b34a79898788459db570836a6daba}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language}
+      \field{number}{3}
+      \field{title}{The linguistic significance of the meanings of basic color terms}
+      \field{volume}{Band 54}
+      \field{year}{1978}
+    \endentry
+    \entry{article:Linguistic_Relativity2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=97abdcce1def45ef724cd25f0419dad5}{%
+           family={Warkus},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{97abdcce1def45ef724cd25f0419dad5}
+      \strng{fullhash}{97abdcce1def45ef724cd25f0419dad5}
+      \strng{bibnamehash}{97abdcce1def45ef724cd25f0419dad5}
+      \strng{authorbibnamehash}{97abdcce1def45ef724cd25f0419dad5}
+      \strng{authornamehash}{97abdcce1def45ef724cd25f0419dad5}
+      \strng{authorfullhash}{97abdcce1def45ef724cd25f0419dad5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Spektrum}
+      \field{title}{Das enge Band zwischen Sprache und Denken}
+      \field{year}{2020}
     \endentry
     \entry{article:Science_and_linguistics}{article}{}
       \name{author}{1}{}{%
@@ -84,7 +208,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{http://de.wikipedia.org/w/index.php?title=Benjamin\%20Lee\%20Whorf&oldid=235528111}}
       \field{note}{[Online; aufgerufen 31. Oktober 2023]}
-      \field{title}{{Benjamin Lee Whorf} --- {W}ikipedia{,} The Free Encyclopedia}
+      \field{title}{Benjamin Lee Whorf}
       \field{year}{2023}
     \endentry
     \entry{wiki:Sapir-Whorf-Hypothese}{misc}{}
@@ -106,7 +230,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{http://de.wikipedia.org/w/index.php?title=Sapir-Whorf-Hypothese&oldid=234438742}}
       \field{note}{[Online; aufgerufen 30. Oktober 2023]}
-      \field{title}{{Sapir-Whorf-Hypothese} --- {W}ikipedia{,} The Free Encyclopedia}
+      \field{title}{Sapir-Whorf-Hypothese}
       \field{year}{2023}
     \endentry
     \entry{image:B_L_Whorf}{misc}{}

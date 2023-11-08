@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Only works on a NixOS system
+latexmk -c
 latexmk -lualatex
 latexmk -c
