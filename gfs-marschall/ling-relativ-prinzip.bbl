@@ -143,6 +143,29 @@
       \field{volume}{Band 54}
       \field{year}{1978}
     \endentry
+    \entry{article:Color_Perception}{article}{}
+      \name{author}{1}{}{%
+        {{hash=345c870ef0459acec35f079dedd29d21}{%
+           family={Trafton},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{345c870ef0459acec35f079dedd29d21}
+      \strng{fullhash}{345c870ef0459acec35f079dedd29d21}
+      \strng{bibnamehash}{345c870ef0459acec35f079dedd29d21}
+      \strng{authorbibnamehash}{345c870ef0459acec35f079dedd29d21}
+      \strng{authornamehash}{345c870ef0459acec35f079dedd29d21}
+      \strng{authorfullhash}{345c870ef0459acec35f079dedd29d21}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT News}
+      \field{subtitle}{People of a remote Amazonian society who learned Spanish as a second language began to interpret colors in a new way, an MIT study has found.}
+      \field{title}{How “blue” and “green” appeared in a language that didn’t have words for them}
+      \field{year}{2023}
+    \endentry
     \entry{article:Linguistic_Relativity2}{article}{}
       \name{author}{1}{}{%
         {{hash=97abdcce1def45ef724cd25f0419dad5}{%
